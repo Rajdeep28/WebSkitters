@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebSkitters</string>
+    <string name="next">Next</string>
+    <string name="skip_intro">"Skip "</string>
+    <string name="no_data_available_msg">No data</string>
+    <string name="student_name_list">Name</string>
+    <string name="name">Name</string>
+    <string name="student_email_list">Email</string>
+    <string name="email">Email</string>
+    <string name="student_name">Enter name</string>
+    <string name="subscriber_email">Enter email</string>
+</resources>
